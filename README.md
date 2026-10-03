@@ -19,3 +19,5 @@ This project was created as a hands-on sandbox to experiment with 3D math, persp
 
 ---
 *Just for appearances' sake 0_o*
+## 📋 System Requirements
+* **Java Runtime Environment (JRE):** Version 1.8.0 or higher is **strictly required** to run the `.exe` / `.jar` game files. 
